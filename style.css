@@ -1,0 +1,132 @@
+/* Basic CSS */
+
+/* * {
+    background-color: darkgreen;
+}
+
+#box {
+    background-color: aquamarine;
+    color:blue;
+}
+
+#heading1 {
+    background-color: blanchedalmond;
+    color: darkmagenta;
+}
+
+#heading2 {
+    background-color: aquamarine;
+    color:darkorange
+}
+
+#heading3 {
+    background-color:cornflowerblue;
+    color:greenyellow;
+}
+
+button {
+    background-color: green;
+} */
+
+/* TOPIC: Text Properties(text-align) */
+/* p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: start;
+}
+
+h4 {
+    text-align: end;
+} */
+
+/* TOPIC: text-decoration */
+/* h1 {
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+} */
+
+/* a {
+    text-decoration: none;
+    text-decoration: green underline;
+} */
+
+
+/* TOPIC: font-weight */
+/* #h1 {
+    font-weight: normal;
+}
+
+#h2 {
+    font-weight: bold;
+}
+
+#h3 {
+    font-weight: bolder;
+}
+
+#h4 {
+    font-weight: lighter;
+}
+
+#h5 {
+    font-weight: 500;
+} */
+
+
+/* TOPIC: font-family */
+/* #one {
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+/* TOPIC: Units in CSS (Absolute) */
+/* #one {
+    font-size: 20px;
+}
+
+#two {
+    font-size: large;
+}
+
+#three {
+    font-size: 10;
+} */
+
+/* TOPIC: line-height */
+/* #one {
+    font-size: 25px;
+    line-height:35px;
+    line-height: normal;
+} */
+
+/* TOPIC: text-transfer */
+/* #one {
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+    text-transform: none;
+} */
+
+/* TOPIC: Practice Set 2 */
+/* #heading {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+* {
+    font-family:'Times New Roman';
+}
+
+#outer {
+    font-size: 25px;
+}
+
+#inner {
+    font-size: 10px;
+} */
